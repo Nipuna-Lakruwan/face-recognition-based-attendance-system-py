@@ -1,0 +1,28 @@
+app:
+  name: "Face Recognition Attendance System"
+  version: "1.0.0"
+
+paths:
+  known_faces_dir: "data/known_faces"
+  attendance_records: "data/attendance"
+  logs: "logs"
+  database: "data/attendance.db"
+
+recognition:
+  tolerance: 0.6
+  frame_reduction: 4
+  model: "hog"  # 'hog' is faster, 'cnn' is more accurate but requires GPU
+  multi_face:
+    enabled: true
+    max_faces: 10  # Maximum number of faces to detect in a single frame
+
+camera:
+  source: 0
+  frame_width: 640
+  frame_height: 480
+  fps: 30
+  detect_cameras: true  # Enable camera detection
+
+gui:
+  theme: "light"
+  window_size: "800x600"

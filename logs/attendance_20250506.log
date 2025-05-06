@@ -1,0 +1,152 @@
+2025-05-06 14:15:29,559 - attendance_system - INFO - Starting Face Recognition Attendance System
+2025-05-06 14:15:30,196 - attendance_system - INFO - Database initialized successfully
+2025-05-06 14:15:30,196 - attendance_system - INFO - Processing face images to create encodings
+2025-05-06 14:15:46,675 - attendance_system - INFO - Camera started
+2025-05-06 14:16:29,461 - attendance_system - INFO - Camera stopped
+2025-05-06 14:17:15,147 - attendance_system - INFO - Camera started
+2025-05-06 14:18:05,619 - attendance_system - INFO - Camera stopped
+2025-05-06 14:20:35,455 - attendance_system - INFO - Camera started
+2025-05-06 14:21:03,435 - attendance_system - INFO - Camera stopped
+2025-05-06 14:21:05,977 - attendance_system - INFO - Camera stopped
+2025-05-06 14:21:05,978 - attendance_system - INFO - Application closed
+2025-05-06 14:25:30,371 - attendance_system - INFO - Starting Face Recognition Attendance System
+2025-05-06 14:25:40,963 - attendance_system - INFO - Starting Face Recognition Attendance System
+2025-05-06 14:26:01,970 - attendance_system - INFO - Starting Face Recognition Attendance System
+2025-05-06 14:29:08,922 - attendance_system - INFO - Starting Face Recognition Attendance System
+2025-05-06 14:29:08,922 - attendance_system - INFO - Pre-detecting available cameras...
+2025-05-06 14:29:08,922 - attendance_system - INFO - Scanning for available cameras...
+2025-05-06 14:29:12,108 - attendance_system - INFO - Found camera at index 0: AVFOUNDATION
+2025-05-06 14:29:14,603 - attendance_system - INFO - Found camera at index 2: AVFOUNDATION
+2025-05-06 14:29:14,774 - attendance_system - INFO - Found 2 camera(s)
+2025-05-06 14:29:14,775 - attendance_system - INFO - Detected 2 camera(s) during initialization
+2025-05-06 14:29:15,534 - attendance_system - INFO - Database initialized successfully
+2025-05-06 14:29:15,534 - attendance_system - INFO - Processing face images to create encodings
+2025-05-06 14:29:15,535 - attendance_system - INFO - Scanning for available cameras...
+2025-05-06 14:29:15,630 - attendance_system - INFO - Found camera at index 0: AVFOUNDATION
+2025-05-06 14:29:16,224 - attendance_system - INFO - Found camera at index 1: AVFOUNDATION
+2025-05-06 14:29:16,449 - attendance_system - INFO - Found camera at index 2: AVFOUNDATION
+2025-05-06 14:29:16,595 - attendance_system - INFO - Found 3 camera(s)
+2025-05-06 14:29:42,703 - attendance_system - INFO - Camera stopped
+2025-05-06 14:29:42,706 - attendance_system - INFO - Application closed
+2025-05-06 14:29:47,327 - attendance_system - INFO - Starting Face Recognition Attendance System
+2025-05-06 14:29:47,327 - attendance_system - INFO - Pre-detecting available cameras...
+2025-05-06 14:29:47,327 - attendance_system - INFO - Scanning for available cameras...
+2025-05-06 14:29:48,005 - attendance_system - INFO - Found camera at index 0: AVFOUNDATION
+2025-05-06 14:29:50,054 - attendance_system - INFO - Found camera at index 1: AVFOUNDATION
+2025-05-06 14:29:50,314 - attendance_system - INFO - Found camera at index 2: AVFOUNDATION
+2025-05-06 14:29:50,480 - attendance_system - INFO - Found 3 camera(s)
+2025-05-06 14:29:50,481 - attendance_system - INFO - Detected 3 camera(s) during initialization
+2025-05-06 14:29:50,889 - attendance_system - INFO - Database initialized successfully
+2025-05-06 14:29:50,889 - attendance_system - INFO - Processing face images to create encodings
+2025-05-06 14:29:50,889 - attendance_system - INFO - Scanning for available cameras...
+2025-05-06 14:29:50,993 - attendance_system - INFO - Found camera at index 0: AVFOUNDATION
+2025-05-06 14:29:51,161 - attendance_system - INFO - Found camera at index 1: AVFOUNDATION
+2025-05-06 14:29:51,387 - attendance_system - INFO - Found camera at index 2: AVFOUNDATION
+2025-05-06 14:29:51,526 - attendance_system - INFO - Found 3 camera(s)
+2025-05-06 14:29:56,509 - attendance_system - INFO - Starting camera with index: 0
+2025-05-06 14:29:56,641 - attendance_system - INFO - Camera 0 started
+2025-05-06 14:30:18,020 - attendance_system - INFO - Camera stopped
+2025-05-06 14:30:19,940 - attendance_system - INFO - Starting camera with index: 2
+2025-05-06 14:30:21,334 - attendance_system - INFO - Camera 2 started
+2025-05-06 14:31:39,341 - attendance_system - INFO - Camera stopped
+2025-05-06 14:32:01,237 - attendance_system - INFO - Starting camera with index: 2
+2025-05-06 14:32:02,700 - attendance_system - INFO - Camera 2 started
+2025-05-06 14:32:56,582 - attendance_system - INFO - Photo captured for Nipuna Lakruwan (BSIT231025)
+2025-05-06 14:33:02,184 - attendance_system - INFO - Student registered: Nipuna Lakruwan (BSIT231025)
+2025-05-06 14:33:02,282 - attendance_system - WARNING - No face found in the image for Nipuna Lakruwan
+2025-05-06 14:33:15,282 - attendance_system - WARNING - Student ID BSIT231025 already exists
+2025-05-06 14:34:30,881 - attendance_system - INFO - Camera stopped
+2025-05-06 14:34:50,295 - attendance_system - INFO - Starting camera with index: 1
+2025-05-06 14:34:52,128 - attendance_system - INFO - Camera 1 started
+2025-05-06 14:35:15,436 - attendance_system - WARNING - Failed to grab frame
+2025-05-06 14:35:17,900 - attendance_system - WARNING - Failed to grab frame
+2025-05-06 14:35:22,647 - attendance_system - WARNING - Failed to grab frame
+2025-05-06 14:35:50,297 - attendance_system - INFO - Photo captured for Nipuna Lakruwan (BSIT231025)
+2025-05-06 14:36:08,714 - attendance_system - WARNING - Student ID BSIT231025 already exists
+2025-05-06 14:36:21,380 - attendance_system - INFO - Photo captured for Nipuna Lakruwan (BSIT231025)
+2025-05-06 14:36:37,639 - attendance_system - INFO - Photo captured for Nipuna Lakruwan (BSIT231025)
+2025-05-06 14:36:58,893 - attendance_system - INFO - Camera stopped
+2025-05-06 14:37:02,173 - attendance_system - INFO - Camera stopped
+2025-05-06 14:37:02,173 - attendance_system - INFO - Application closed
+2025-05-06 15:07:59,875 - attendance_system - INFO - Starting Face Recognition Attendance System
+2025-05-06 15:07:59,875 - attendance_system - INFO - Local storage initialized for attendance tracking
+2025-05-06 15:07:59,875 - attendance_system - INFO - Pre-detecting available cameras...
+2025-05-06 15:07:59,875 - attendance_system - INFO - Scanning for available cameras...
+2025-05-06 15:08:03,027 - attendance_system - INFO - Found camera at index 0: AVFOUNDATION
+2025-05-06 15:08:04,977 - attendance_system - INFO - Found camera at index 1: AVFOUNDATION
+2025-05-06 15:08:05,223 - attendance_system - INFO - Found camera at index 2: AVFOUNDATION
+2025-05-06 15:08:05,374 - attendance_system - INFO - Found 3 camera(s)
+2025-05-06 15:08:05,374 - attendance_system - INFO - Detected 3 camera(s) during initialization
+2025-05-06 15:08:06,106 - attendance_system - INFO - Database initialized successfully
+2025-05-06 15:08:06,106 - attendance_system - INFO - Processing face images to create encodings
+2025-05-06 15:08:06,224 - attendance_system - WARNING - No face found in data/known_faces/BSIT231025/20250506_143302.jpg
+2025-05-06 15:08:06,224 - attendance_system - INFO - Scanning for available cameras...
+2025-05-06 15:08:06,306 - attendance_system - INFO - Found camera at index 0: AVFOUNDATION
+2025-05-06 15:08:06,511 - attendance_system - INFO - Found camera at index 1: AVFOUNDATION
+2025-05-06 15:08:06,719 - attendance_system - INFO - Found camera at index 2: AVFOUNDATION
+2025-05-06 15:08:06,861 - attendance_system - INFO - Found 3 camera(s)
+2025-05-06 15:08:11,531 - attendance_system - INFO - Starting camera with index: 0
+2025-05-06 15:08:11,677 - attendance_system - INFO - Camera 0 started
+2025-05-06 15:08:30,702 - attendance_system - INFO - Camera stopped
+2025-05-06 15:08:57,572 - attendance_system - INFO - Starting camera with index: 1
+2025-05-06 15:08:59,312 - attendance_system - INFO - Camera 1 started
+2025-05-06 15:10:10,148 - attendance_system - INFO - Photo captured for Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:18,002 - attendance_system - WARNING - Student ID BSIT231025 already exists
+2025-05-06 15:10:18,002 - attendance_system - INFO - Student registered: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:18,118 - attendance_system - INFO - Added new face for Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:21,175 - attendance_system - INFO - Student registered: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:21,245 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:21,247 - attendance_system - INFO - Attendance marked for student BSIT231025 at 15:10:21
+2025-05-06 15:10:21,248 - attendance_system - INFO - Attendance marked for student Nipuna Lakruwan (BSIT231025) at 15:10:21
+2025-05-06 15:10:26,789 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:26,790 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:10:26,790 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:10:31,965 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:31,966 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:10:31,967 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:10:36,981 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:36,983 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:10:36,983 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:10:41,981 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:41,982 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:10:41,982 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:10:46,324 - attendance_system - INFO - Generated report for 2025-05-06
+2025-05-06 15:10:47,129 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:47,130 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:10:47,130 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:10:52,143 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:52,144 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:10:52,144 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:10:57,320 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:10:57,320 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:10:57,321 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:11:02,337 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:11:02,338 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:11:02,338 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:11:07,368 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:11:07,369 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:11:07,369 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:11:12,395 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:11:12,397 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:11:12,397 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:11:17,475 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:11:17,477 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:11:17,477 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:11:22,488 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:11:22,490 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:11:22,490 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:11:39,179 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:11:39,180 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:11:39,181 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:11:53,941 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:11:53,942 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:11:53,943 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:12:08,149 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:12:08,152 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:12:08,152 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:12:13,158 - attendance_system - INFO - Recognized: Nipuna Lakruwan (BSIT231025)
+2025-05-06 15:12:13,159 - attendance_system - INFO - Attendance already marked for student BSIT231025 today
+2025-05-06 15:12:13,159 - attendance_system - INFO - Attendance already marked for student Nipuna Lakruwan (BSIT231025) today
+2025-05-06 15:12:17,303 - attendance_system - INFO - Camera stopped
+2025-05-06 15:12:24,778 - attendance_system - INFO - Camera stopped
+2025-05-06 15:12:24,779 - attendance_system - INFO - Application closed

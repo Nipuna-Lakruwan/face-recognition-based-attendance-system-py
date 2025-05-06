@@ -1,3 +1,11 @@
+"""
+Face Recognition Based Attendance System
+Copyright (c) 2025 Nipuna Lakruwan. All rights reserved.
+
+This software is provided under the MIT License.
+See the accompanying LICENSE file for terms.
+"""
+
 import tkinter as tk
 import os
 import sys

@@ -1,6 +1,7 @@
 app:
   name: "Face Recognition Attendance System"
   version: "1.0.0"
+  copyright: "© 2025 Nipuna Lakruwan"
 
 paths:
   known_faces_dir: "data/known_faces"

@@ -53,6 +53,29 @@ class MainWindow:
         # Setup UI
         self.setup_ui()
     
+    def add_copyright_footer(self):
+        """Add a copyright footer to the main window"""
+        footer_frame = ttk.Frame(self.root)
+        footer_frame.pack(side=tk.BOTTOM, fill=tk.X, pady=5)
+        
+        copyright_text = "© 2025 Nipuna Lakruwan. All rights reserved."
+        copyright_label = ttk.Label(
+            footer_frame, 
+            text=copyright_text,
+            font=("Helvetica", 8),
+            foreground="gray"
+        )
+        copyright_label.pack(side=tk.RIGHT, padx=10)
+        
+        version_text = f"Version {self.config.get('app', 'version')}"
+        version_label = ttk.Label(
+            footer_frame,
+            text=version_text,
+            font=("Helvetica", 8),
+            foreground="gray"
+        )
+        version_label.pack(side=tk.LEFT, padx=10)
+    
     def setup_ui(self):
         """Set up the user interface"""
         app_name = self.config.get("app", "name")
@@ -82,6 +105,9 @@ class MainWindow:
         
         # Set up window close event
         self.root.protocol("WM_DELETE_WINDOW", self.on_close)
+        
+        # Add copyright footer
+        self.add_copyright_footer()
     
     def setup_main_tab(self):
         """Set up the main attendance tracking tab"""
@@ -477,8 +503,8 @@ class MainWindow:
     
     def on_close(self):
         """Handle window close event"""
-        self.stop_camera()
-        self.logger.info("Application closed")
+        if self.is_capturing:
+            self.stop_camera()
         self.root.destroy()
     
     def setup_register_tab(self):
